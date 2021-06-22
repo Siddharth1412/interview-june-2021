@@ -23,7 +23,7 @@ public class ConvertToBinary {
   }
    public static void main(String[] args)
     {
-        int n = 17;
+        int n = 35;
         toBinary(n);
     }
 }
